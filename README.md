@@ -65,7 +65,7 @@ module full_subtractor (
 endmodule
 /* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 
-Developed by:S.SUMAIYA RegisterNumber: 2501687310
+Developed by:S.SUMAIYA RegisterNumber: 25016731
 
 RTL Schematic
 
